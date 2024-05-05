@@ -1,4 +1,6 @@
-# Task: Make a farcaster frame*
+# Make a farcaster frame
+
+I used frog.fm to create a simple frame for farcaster.
 
 ![frame screen 1](<Screenshot 2024-05-05 at 11.39.02.png>)
 

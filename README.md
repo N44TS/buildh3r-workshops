@@ -8,7 +8,7 @@
 *Integrate web3-onboard to dapp/create-react-app.*  
 *Points: 6*  
 
-**[Farcaster Frame](<Farcaster Frame/>)** : Building frames  
+**[Farcaster Frames](<Farcaster Frames/>)** : Building frames  
 *Build a frame.*  
 *Points: 6*  
 

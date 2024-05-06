@@ -3,7 +3,7 @@ import Onboard from '@web3-onboard/core'
 import injectedModule from '@web3-onboard/injected-wallets'
 import { ethers } from 'ethers'
 
-const MAINNET_RPC_URL = 'https://mainnet.infura.io/v3/<INFURA_KEY>'
+const MAINNET_RPC_URL = `https://mainnet.infura.io/v3/${process.env.INFURA_KEY}`;
 
 const injected = injectedModule()
 

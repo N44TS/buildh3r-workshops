@@ -1,0 +1,5 @@
+transaction hash: 0x0778122e073a37be2804fa489dda09d46071a354b2d29116a08d94a32688c23b
+
+Contract address: 0x00439d125fe236bd4ddf16dfcaad0fea4ba3e43748cdbab036000be1ab1ddca8
+
+Contract on starkscan: https://sepolia.starkscan.co/contract/0x00439d125fe236bd4ddf16dfcaad0fea4ba3e43748cdbab036000be1ab1ddca8#read-write-contract

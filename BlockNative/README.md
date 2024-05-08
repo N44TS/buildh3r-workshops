@@ -1,7 +1,10 @@
 # Web3-Onboard task
 
-Integrate the wallet modal into a create-react-app
+Integrate the wallet into a create-react-app
 
+Screenshot the connection module:
+
+![connection module screenshot](<screenshot of connection module.png>)
 
 # Getting Started with Create React App
 

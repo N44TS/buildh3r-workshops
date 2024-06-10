@@ -1,3 +1,5 @@
-Project created for mock Gitcoin's Grant.
+Project created and submitted for mock Gitcoin round.
 
-![gitcoin profect](<Screenshot 2024-06-08 at 02.34.30.png>)
+![screenshot profile page](<Screenshot 2024-06-10 at 22.16.45.png>)
+
+![screenshot project page](<Screenshot 2024-06-10 at 22.20.24.png>)

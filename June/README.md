@@ -13,7 +13,7 @@
 *Points: 24*  
 
 **[Gitcoin/Green Pill](Gitcoin/)** : 
-*Create a builders profile page on Gitcoin's Grant Stack  Screenshot proof of your profile page submitted to the mock-round.*  
+*Create a builders profile page on Gitcoin's Grant Stack. Screenshot proof of your profile page submitted to the mock-round.*  
 *Points: 6* 
 
 **[Starknet](Starknet/)** : 

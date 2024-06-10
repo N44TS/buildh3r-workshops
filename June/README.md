@@ -24,7 +24,7 @@
 *build and deploy a fully private Dapp.  Screenshot proof of your completed task + provide deployment link.*  
 *Points: 24*  
 
-**[Polygon](Polygon/)** : 
+**[Polygon](polygon/)** : 
 *Build a full stack dapp*  
 *Points: 24*  
 

@@ -20,7 +20,7 @@
 *Deploy Cairo smart contracts and interact with the contracts via preferred block explorer. Screenshot proof of completion and provide deployment link*  
 *Points: 18*  
 
-**[AlphaSwap](AlphaSwap/)** : 
+**[AlphaSwap](Alphaswap/)** : 
 *Complete a private swap transaction with snarkos command line.*  
 *Points: 18*  
 

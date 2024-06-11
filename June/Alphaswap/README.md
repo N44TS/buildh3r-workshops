@@ -13,8 +13,7 @@ https://testnetbeta.aleo123.io/address/aleo1lfj63x3wr9kf40q3hnqljw2p3c0fttefsz97
 https://explorer.aleo.org/transaction/at124ns30w9pt4s8wsancuwntkqgvp5g9y50mhg37s9ln4ssjv5murs2fc8km
 
 
-### **proof of private swap txn with snarkos command line**
+### **Proof of private swap txn with snarkos command line**
 ![private swap proof](<Screenshot 2024-06-11 at 19.01.57.png>)
-#### **private swap txn id:** 
- *at1lx8adfkal77x9c0qn6juy29zvvxj9mndepp4txtjqc30dn8svyxsuzs9vz*
+**private swap txn id:** *at1lx8adfkal77x9c0qn6juy29zvvxj9mndepp4txtjqc30dn8svyxsuzs9vz*
 https://explorer.aleo.org/transaction/at1lx8adfkal77x9c0qn6juy29zvvxj9mndepp4txtjqc30dn8svyxsuzs9vz

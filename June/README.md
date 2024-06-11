@@ -20,6 +20,10 @@
 *Deploy Cairo smart contracts and interact with the contracts via preferred block explorer. Screenshot proof of completion and provide deployment link*  
 *Points: 18*  
 
+**[AlphaSwap](AlphaSwap/)** : 
+*Complete a private swap transaction with snarkos command line.*  
+*Points: 18*  
+
 **[Aleo Demox](<Aleo Demox/>)** : 
 *build and deploy a fully private Dapp.  Screenshot proof of your completed task + provide deployment link.*  
 *Points: 24*  

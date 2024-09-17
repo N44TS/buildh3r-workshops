@@ -5,8 +5,7 @@
 *Points: 18*  
 
 **[ZKM](ZKM/)** :   
-*Design a use case for ZKM. Submit a forum post under the use cases channel on Discord.
-Complete the quiz and earn ZKM POINTS.*
+*Design a use case for ZKM. Submit a forum post under the use cases channel on Discord.*
 *Points: 18*  
 
 

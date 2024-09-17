@@ -54,6 +54,16 @@ const config: HardhatUserConfig = {
       url: `https://eth-sepolia.g.alchemy.com/v2/${providerApiKey}`,
       accounts: [deployerPrivateKey],
     },
+    andromeda: {
+      url: "https://andromeda.metis.io/?owner=1088",
+      accounts: [deployerPrivateKey],
+      verify: {
+        etherscan: {
+          apiKey: "not required just set placeholder",
+          apiUrl: "https://api-routescan.io/v2/network/mainnet/evm/1088/etherscan",
+        },
+      },
+    },
     MetisSepolia: {
       url: "https://sepolia.metisdevops.link/",
       accounts: [deployerPrivateKey],
